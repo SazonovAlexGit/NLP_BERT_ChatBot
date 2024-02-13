@@ -7,4 +7,5 @@ Model: Cross-encoder/Bi-Encoder
 + pip install -r requirements.txt
 + run main.py
 + Open link [http://127.0.0.1:5000](http://127.0.0.1:5000) in your web-browser
++ Chat with Fry
   > Remember: Fry not smart boy 
